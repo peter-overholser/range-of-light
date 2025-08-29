@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Appropriate Computing"
+date:   2025-08-21 21:03:03 -0700
+categories: [blog]
+---
+
+# Appropriate Computing  
+
+Sometimes the right tool is a trillion-parameter LLM. Other times it’s a simple linear model. The trick is knowing which to use—and why.  
+
+---
+
+## What is Appropriate Computing?  
+In the 1960s, the idea of *appropriate technology* (AT) emerged as a response to runaway industrial growth. Its core message was simple: technology should serve people and ecosystems, not just profit. Human flourishing came first.  
+
+That lens feels urgent again today. Computation now runs through nearly every corner of life. From linear models predicting crop yields to LLMs generating essays and code, these tools shape our work, education, and imagination. The question isn’t just *what can we build?* but *what should we build, and in what context?*  
+
+---
+
+## Small is Beautiful vs. Bigger is Better  
+E.F. Schumacher’s book *Small is Beautiful* gave the AT movement both a name and a philosophy. Smaller-scale tools tend to fail more gracefully. They complement human agency instead of erasing it.  
+
+This contrast shows up in computing too. A linear model is often transparent, reliable, and easy to deploy. An LLM, by comparison, may be more powerful in scope but comes with opaque failure modes, high costs, and heavy infrastructure.  
+
+Yet our current trajectory leans hard toward “bigger is better”: vast data centers burning through electricity to host endless LLM wrappers. Many add little novelty but aim to displace human labor and meaning. Meanwhile, frontier labs keep betting that sheer scale—more data, more compute, more cost—will somehow deliver superintelligence. That bet looks shakier every year.  
+
+---
+
+## Right-Fit Computing  
+So what’s the alternative? Between accelerationist utopias and doomer dystopias lies another path: *appropriate computing*.  
+
+Sometimes the right answer really is an LLM. Other times, a linear model—or a rule-based system—is far more effective, resilient, and humane. The difference isn’t just about *size*, but *fit*: does the tool align with the characteristics of the system it enters?  
+
+Scale without alignment only magnifies risk. Fit, by contrast, makes even the smallest tools powerful.  
+
+This blog is an experiment in finding that fit. Future posts will range from theory—LLM properties, complex systems thinking—to practice: medicine, education, ecological stewardship, agriculture. My aim isn’t just to critique or cheerlead. It’s to ask, with you: what would it take to make computing truly *appropriate*?  
+
+---
