@@ -21,11 +21,11 @@
 title: Range of Light
 email: peter@humboldt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts on intelligence and systems
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Thoughts on Appropriate Computing
+baseurl: "https://peter-overholser.github.io" # the subpath of your site, e.g. /blog
+url: ""/range-of-light"" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ""
+github_username:  peter-overholser
 
 # Build settings
 theme: minima
