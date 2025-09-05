@@ -4,16 +4,24 @@ title:  "Appropriate Computing"
 date:   2025-08-30 21:03:03 -0700
 categories: [blog]
 ---
-## LM vs LLM
+## Linear Models (LMs) vs LLMs
 You can hammer in a nail with a crescent wrench and approximate linear regression with ChatGPT.  We have a strong sense of the "appropriate" tool for the job in many domains, but we're still building that intuition in the world of algorithms.
 
 ## What is Appropriate Computing?
-The "appropriate technology" (AT) movement emerged in response to rampant industrialization in the 1960s.  The thesis is that technology should be developed and deployed in consideration of a broad context of society and ecology.  Human flourishing, rather than profit, is the focus.  This framework can be adapted to our current technological transition, as computational techniques, from simple rule-based approaches to trillion parameter LLMs, become important fixtures of our daily existence.  
+The "appropriate technology" (AT) movement emerged in response to rampant industrialization in the 1960s.  The thesis is that technology should be developed and deployed in consideration of a broad context of society and ecology.  Human flourishing, rather than profit, is the focus.  
+
+This framework can be adapted to our current technological transition, as computational techniques, from simple rule-based approaches to trillion parameter LLMs, become important fixtures of our daily existence.  
 
 
 ## Small is Beautiful vs Bigger is Better
-An important philosophy in AT (and the title of the book that kicked it off) is that "small is beautiful". In general, "smaller" technologies have more predictable failure modes and augment, rather than replace, human agency.  This insight stands in opposition to the philosophy of our current AI boom. As a society, we're investing bewildering amounts of capital (data centers, electrical power, human innovation, etc) to generate extremely complex, poorly understood technologies.  The great hope is that these massively costly technologies will succeed in putting us all out of a job!
+An important philosophy in AT (and the title of the book that kicked it off) is that "small is beautiful". In general, "smaller" technologies have more predictable failure modes and augment, rather than replace, human agency.  This insight stands in opposition to the philosophy of our current AI boom. 
+
+As a society, we're investing bewildering amounts of capital (data centers, electrical power, human innovation, etc) to generate extremely complex, poorly understood technologies.  The great hope is that these massively costly technologies will succeed in putting us all out of a job!  
+
+In truth, an implicit goal of this cap expenditure is an erosion of the bargaining power of labor.
 
 ## Strength in Fit
-Appropriate computing offers a third path between the utopian dreams of accelerationists and the dystopian nightmares of the doomers.  Existing computational tools, from linear regression to LLMs, are a poweful toolbox.  These tools have enormous capacity to promote human welfare, dignity, and agency, but this promise is best realized through consideration of their roles as participants in broader complex systems. The goal of this blog is to share thoughts that may be useful in this project.  Planned posts range from philosophical and mathematical thoughts on LLM properties and complex systems to concrete applications in medicine, education, ecological stewarship, and agriculture.
+It's easy to become discouraged, but appropriate computing offers a third path between the utopian dreams of accelerationists and the dystopian nightmares of the doomers.  Existing computational tools, from linear regression to LLMs, are a poweful toolbox.  The promise lies not in their sheer power or size, but in their fit.  Carefully chosen and applied, they already can offer enormous benefits to human welfare, dignity, and soverienty. 
+
+The goal of this blog is to share thoughts that may be useful in this project.  Planned posts range from philosophical and mathematical thoughts on LLM properties and complex systems to concrete applications in medicine, education, ecological stewarship, and agriculture.
 
