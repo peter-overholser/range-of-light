@@ -4,16 +4,21 @@ title:  "Appropriate Computing"
 date:   2025-08-30 21:03:03 -0700
 categories: [blog]
 ---
-## LM vs LLM
-You can hammer in a nail with a crescent wrench and approximate linear regression with ChatGPT.  We have a strong sense of the "appropriate" tool for the job in many domains, but we're still building that intuition in the world of algorithms.
+## Inappropriate Computing
+As algorithms and automation begin to dominate our everyday experiences, we're surrounded by examples of inappropriate applications.  Biased, unaccountable tools used for decision making, interfaces that reduce costs (by eliminating jobs) but increase user frustration, and poorly understood chat models that often fail in spectacularly dangerous ways, among others.  These are the teething pains of a new technological paradigm.  What can we learn from similar periods in history?
 
 ## What is Appropriate Computing?
-The "appropriate technology" (AT) movement emerged in response to rampant industrialization in the 1960s.  The thesis is that technology should be developed and deployed in consideration of a broad context of society and ecology.  Human flourishing, rather than profit, is the focus.  This framework can be adapted to our current technological transition, as computational techniques, from simple rule-based approaches to trillion parameter LLMs, become important fixtures of our daily existence.  
+The "appropriate technology" (AT) movement emerged in response to rampant industrialization in the 1960s.  The thesis is that technology should be developed and deployed in consideration of a broad context of society and ecology.  Human flourishing, rather than profit, is the focus.  This framework can be adapted to our current technological transition, as computational techniques, from simple rule-based approaches to trillion parameter LLMs, become important fixtures of our daily existence.
+
+Appropriate computing offers a third path between the utopian dreams of accelerationists and the dystopian nightmares of AI doomers.  Just as regenerative agriculture provided a pragmatic, positive response to the excesses of industrialized food production (a theme I will develop in a later post), appropriate computing aims to solve real problems with algorithms, but with an emphasis on systems thinking, robustness, and context.
 
 
 ## Small is Beautiful vs Bigger is Better
-An important philosophy in AT (and the title of the book that kicked it off) is that "small is beautiful". In general, "smaller" technologies have more predictable failure modes and augment, rather than replace, human agency.  This insight stands in opposition to the philosophy of our current AI boom. As a society, we're investing bewildering amounts of capital (data centers, electrical power, human innovation, etc) to generate extremely complex, poorly understood technologies.  The great hope is that these massively costly technologies will succeed in putting us all out of a job!
+An important philosophy in AT (and the title of the book that kicked off the movement) is that "small is beautiful". In general, "smaller" technologies have more predictable failure modes and augment, rather than replace, human agency.  This insight stands in opposition to the philosophy of our current AI boom, which can be summed up as "bigger is better" (or more precisely, the "bitter lesson" and the "scaling hypothesis").  
+
+As a society, we're currently investing staggering amounts of capital (data centers, electrical power, human creativity, etc) to build extremely complex, poorly understood technologies.  The great hope is that these massively costly technologies will succeed in putting us all out of a job!
 
 ## Strength in Fit
-Appropriate computing offers a third path between the utopian dreams of accelerationists and the dystopian nightmares of the doomers.  Existing computational tools, from linear regression to LLMs, are a poweful toolbox.  These tools have enormous capacity to promote human welfare, dignity, and agency, but this promise is best realized through consideration of their roles as participants in broader complex systems. The goal of this blog is to share thoughts that may be useful in this project.  Planned posts range from philosophical and mathematical thoughts on LLM properties and complex systems to concrete applications in medicine, education, ecological stewarship, and agriculture.
+It's easy to become discouraged in this environment, but there is hope.  Current computational tools, from linear regression to LLMs, comprise a versatile toolbox.  These algorithms have enormous capacity to promote human welfare, dignity, and agency, but their utility comes not from their size or raw strength, but their fit for purpose.    
 
+Finding an appropriate fit requires deep understandings of both the computational tools available and the systems with which they interact.  The blog is a place share thoughts on these topics.  Planned posts range from philosophical and mathematical thoughts on model properties and systems dynamics to concrete applications of computational tools in medicine, education, ecological stewarship, and agriculture.
