@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Agriculture as Analogy"
+date:   2025-09-12 21:03:03 -0700
+categories: [blog]
+---
+## Feeding the world
+
+In 1850, the world population was around an eighth of what it is now, and up to a half of those experienced chronic food shortages.  Thanks to scientific and technological progress, our ability to produce food has increased in leaps and bounds over the past few centuries.  Famine is now an artifact of [distribution](https://en.wikipedia.org/wiki/Amartya_Sen), not production.  How did we achieve this triumph, which I'll call "industrial agriculture"
+
+In the United States, land grant universities successfully promoted a scientific, mechanized approach to agriculture that led to much higher (and more predictable) yields with smaller labor inputs.  Tractors replaced the horse, fertilizers reliably bolstered soil productivity, yield-optimized cultivars displaced heirloom varieties, and an ever-expanding quiver of pesticides was deployed to keep pest pressure in check.
+
+Interestingly, it seems that wartime advancements played an important role.  Large-scale production methods for synthetic nitrogen fertilizers were developed as a byproduct of Germany's WWI explosives industry buildout, and the precursors to modern organophosphate pesticides were first explored in Nazi Germany for their potential uses against humans as well as insects.  Widespread DDT use began for pest control among American troops.
+
+Norman Borlaug's so-called green revolution spread these methods around the world, ushering in an explosion of food production. [As a result](https://www.nature.com/articles/ngeo325), the widely predicted [worldwide famine](https://en.wikipedia.org/wiki/The_Population_Bomb) never materialized.
+  
+
+## The silver cloud's dark lining
+
+Most of us are familiar with some of the downsides of this approach.  Fertilizer and pesticides are blunt but powerful interventions for increasing yield.  The soil is too depleted to support a healthy crop?  Apply more fertilizer.  The bugs are shrugging off your current spray?  Apply a new, more powerful pesticide.
+
+This works for a while, but the cost is high.  Among these, we've seen widespread environmental contamination with dangerous poisons, lakes filled with toxic algae, nutritionally empty (and sometimes harmful) imitations of true food, and an increasing alienation between people and the process by which their food is produced.
+
+## Regenerative framing
+In response to these failures, a counter-movement has been building for several decades.  There are many terms and schools of thought-- biodynamic, organic, regenerative, etc.  But each demands its practitioners rely on a much more limited and (usually) traditional set of interventions, which I'll call "small".  This restriction leads to several interesting effects:  
+1) By their limited nature and age, small techniques are much less likely to have unforeseen negative consequences.
+2) In order to be effective, small interventions must be carefully deployed.  They'll only work if their effect is aligned with system dynamics.
+3) Human labor and thought remain central parts of the production system.
+
+How do practitioners align small methods with system dynamics?  There's often a reliance on locally relevant tradition.  Tradition is the result of millenia of evolutionary pressure, so this is often a good strategy.  Increasingly, sophisticated technical approaches (remote sensing, etc) are also used to better guide the application of simple (this will be the topic of a future post).
+
+Instead of maximizing yield, the focus becomes maintaining the health and productivity of an ecosystem that has high yield.  
+
+## Connecting back to computing
