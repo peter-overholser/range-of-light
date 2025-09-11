@@ -1,51 +1,30 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  {%- include head.html -%}
-  <body>
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="home">
-          <!-- Your background image title section -->
-          <div style="
-            background-image: url('{{ '/assets/images/canon.jpg' | relative_url }}');
-            background-size: cover;
-            background-position: center;
-            padding: 3rem 1rem;
-            margin-bottom: 2rem;
-            border-radius: 8px;
-            text-align: center;
-            color: white;
-            background-attachment: fixed;
-          ">
-            <div style="background: rgba(0,0,0,0); padding: 2rem; border-radius: 8px;">
-              <h1 style="margin: 0; font-size: 2.5rem;">Range of Light</h1>
-              <p style="margin: 0.5rem 0 0 0; font-size: 1.1rem;">Thoughts on Appropriate Computing</p>
-            </div>
-          </div>
+---
+layout: default
+---
 
-          {{ content }}
+<div class="home">
+  <!-- Hero section with background image -->
+  <div class="hero-section">
+    <div class="hero-content">
+      <h1 class="hero-title">Range of Light</h1>
+      <p class="hero-subtitle">Thoughts on Appropriate Computing</p>
+    </div>
+  </div>
 
-          {%- if site.posts.size > 0 -%}
-            <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-            <ul class="post-list">
-              {%- for post in site.posts -%}
-              <li>
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-                <h3>
-                  <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                  </a>
-                </h3>
-              </li>
-              {%- endfor -%}
-            </ul>
+  {{ content }}
 
-            <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-          {%- endif -%}
-        </div>
-      </div>
-    </main>
-    {%- include footer.html -%}
-  </body>
-</html>
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>
