@@ -4,7 +4,7 @@ title:  "Appropriate Computing"
 date:   2025-08-30 21:03:03 -0700
 categories: [blog]
 ---
-## Appropriate Computing
+## What are we talking about?
 Over the past year or so, a group at [Cal Poly Humboldt](https://www.humboldt.edu/) has been meeting to understand how to promote a sustainable future for AI use and development. We've been calling our team the "[Appropriate Computing Discussion Group](https://sites.google.com/humboldt.edu/acdg?usp=sharing)", in a nod to the [locally significant](https://www.humboldt.edu/ccat) [Appropriate Technology](https://en.wikipedia.org/wiki/Appropriate_technology) movement of the 1960s.  This blog is meant as a place to record the ideas that emerge from these discussions.
 
 ## Inappropriate Computing
