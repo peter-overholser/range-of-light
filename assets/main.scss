@@ -32,10 +32,19 @@ body {
   line-height: 1.6;
   color: $text-primary;
   background: $background-white;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/range-of-light/assets/images/canon.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   margin: 0;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  @media (max-width: 768px) {
+    background-attachment: scroll; // Better performance on mobile
+  }
 }
 
 // Layout Container
