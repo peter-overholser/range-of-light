@@ -34,8 +34,7 @@ Instead of maximizing yield, the focus becomes maintaining the health and produc
 ## Connecting back to computing
 Elon Musk's AI venture, xAI is currently finishing construction of [Colossus 2](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/), the world's first "Gigawatt Scale" computing cluster.  Meanwhile, Meta has announced plans for a [5 gigawatt datacenter](https://www.bbc.com/news/articles/c1e02vx55wpo) in Louisiana, whose physical footprint will rival that of Manhattan, NY.  These are monuments to the belief that vastly scaling compute and data will lead to emergence of useful intelligence.  So far, this has proven to be roughly true, but we're starting to see some limitations (and serious downsides) to this approach.  This moment in AI development seems roughly analogous to the period of 1950s-1960s agriculture, during which advancements in chemical fertilizers and pesticides seemed to promise a future of limitless abundance.  The sky was the limit on yield then; in our time, the same is true of benchmarks.
 
-Rather than being seduced by the scale and power of these clumsily powerful approaches, we can take another path.  There's enormous potential to thoughtfully apply AI technology to implement "small" computational interventions that gracefully enhance the systems in which they interact.  One quick heuristic for identifying leverage points for this type of application is the so-called "cognitive bottleneck", which will be the topic of a future post.
-
+Rather than being seduced by the scale and power of these clumsily powerful approaches, we can thoughtfully apply AI technology to implement "small" computational interventions that gracefully enhance the systems in which they interact.  One quick heuristic for identifying leverage points for this type of application is the so-called "cognitive botte"
 
 
 
