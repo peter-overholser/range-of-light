@@ -20,7 +20,7 @@ In 2015, the market cap of Nvidia about a tenth of Intel's, and their products w
 
 Time and again, these investments have led to substantial gains in the market value of both sides, gains that dwarf the magnitude of the investments (though they are, themselves, astronomical).  Various commentators have pointed this out, most humorously [Dylan Patel](https://x.com/dylan522p/status/1970346183827783756):
 
-![image](images/money_glitch.jpeg)
+![image](/assets/images/money_glitch.jpeg)
 
 Others have pointed out that this is, in fact, the way an economy works.  Money flows around creating value, sometimes in loops. 
 
