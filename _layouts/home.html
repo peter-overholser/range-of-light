@@ -2,24 +2,24 @@
 layout: default
 ---
 
-<div class="home">
-  <h1>Range of Light</h1>
-  <p>Thoughts on Appropriate Computing</p>
+{{ content }}
 
-  {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
-</div>
+{%- if site.posts.size > 0 -%}
+  <h2 class="section-label">{{ page.list_title | default: "Essays" }}</h2>
+  <ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
+    {%- for post in site.posts -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      {%- if post.description -%}
+        {%- assign summary = post.description -%}
+      {%- else -%}
+        {%- assign paras = post.content | split: "<p>" -%}
+        {%- assign summary = paras[1] | split: "</p>" | first | strip_html | truncatewords: 32 -%}
+      {%- endif -%}
+      {%- if summary != "" -%}<p class="post-excerpt">{{ summary }}</p>{%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}

@@ -3,9 +3,18 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body{% if page.layout == "home" %} class="home"{% endif %}>
 
     {%- include header.html -%}
+
+    {%- if page.layout == "home" -%}
+    <section class="hero">
+      <div class="wrapper">
+        <h1>{{ site.title | escape }}</h1>
+        <p class="tagline">{{ site.description | escape }}</p>
+      </div>
+    </section>
+    {%- endif -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">

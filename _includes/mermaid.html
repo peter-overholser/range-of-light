@@ -10,7 +10,8 @@
       diagram.textContent = block.textContent;
       target.replaceWith(diagram);
     });
-    mermaid.initialize({ startOnLoad: false, theme: "neutral" });
+    const dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    mermaid.initialize({ startOnLoad: false, theme: dark ? "dark" : "neutral", fontFamily: "Inter, sans-serif" });
     await mermaid.run({ querySelector: "pre.mermaid" });
   }
 </script>
