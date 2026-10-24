@@ -78,3 +78,67 @@ The Appropriate Technology movement was influential, spawning progress in divers
 It's tempting to view the recent frenzied scaling of AI as just another example of the imperative of *causa efficiens* when it becomes telos, but there's another aspect to it.  Believe it or not, there's a commonly held belief throughout the industry, a belief that can be traced at least to Wiener's radical vision of technical exchangeability between machine and man, that humans have a religious calling to birth an intelligence greater than their own.  We are merely bootloaders for something that will extend far beyond our capabilities, and pursue its own ends, subject to an alien telos.
 
 How do we arrest this runaway train, the most optimistic predicted outcome of which is that everyone loses their job?  I believe Appropriate Technology offers the correct lesson-- we need to do the difficult work of deciding as a society what this technology is for, of setting a telos, and asserting the primacy of that vision rather than the complementary movements of technological deification and maximum productive efficiency.
+
+---
+
+Wiener himself saw this danger early: within a few years of the 1943 paper, he was warning that automation would devalue human labor. His *The Human Use of Human Beings* is the subject of the next essay.
+
+## Bibliography
+
+Aristotle. *Physics*, Book II; *Metaphysics*, Book V.
+
+Bacon, F. (1623). *De Augmentis Scientiarum*.
+
+Ellul, J. (1964). *The Technological Society* (J. Wilkinson, Trans.). Knopf. (Original work published 1954)
+
+Galison, P. (1994). The Ontology of the Enemy: Norbert Wiener and the Cybernetic Vision. *Critical Inquiry*, 21(1), 228–266.
+
+Heidegger, M. (1977). The Question Concerning Technology. In *The Question Concerning Technology and Other Essays* (W. Lovitt, Trans.). Harper & Row. (Original work published 1954)
+
+McCarthy, J., Minsky, M., Rochester, N., & Shannon, C. (1955). *A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence*.
+
+Medina, E. (2011). *Cybernetic Revolutionaries: Technology and Politics in Allende's Chile*. MIT Press.
+
+Rosenblatt, F. (1958). The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain. *Psychological Review*, 65(6), 386–408.
+
+Rosenblueth, A., Wiener, N., & Bigelow, J. (1943). Behavior, Purpose and Teleology. *Philosophy of Science*, 10(1), 18–24.
+
+Schumacher, E. F. (1973). *Small Is Beautiful: Economics as if People Mattered*. Blond & Briggs.
+
+Turner, F. (2006). *From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*. University of Chicago Press.
+
+Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+
+### Further Reading
+
+Borgmann, A. (1984). *Technology and the Character of Contemporary Life*. University of Chicago Press.
+
+Conway, F., & Siegelman, J. (2005). *Dark Hero of the Information Age: In Search of Norbert Wiener, the Father of Cybernetics*. Basic Books.
+
+Geraci, R. M. (2010). *Apocalyptic AI: Visions of Heaven in Robotics, Artificial Intelligence, and Virtual Reality*. Oxford University Press.
+
+Illich, I. (1973). *Tools for Conviviality*. Harper & Row.
+
+Jonas, H. (1966). Cybernetics and Purpose: A Critique. In *The Phenomenon of Life*. Harper & Row. (Original work published 1953)
+
+Kline, R. R. (2015). *The Cybernetics Moment: Or Why We Call Our Age the Information Age*. Johns Hopkins University Press.
+
+Mayr, E. (1974). Teleological and Teleonomic: A New Analysis. *Boston Studies in the Philosophy of Science*, 14, 91–117.
+
+Mumford, L. (1967–1970). *The Myth of the Machine* (2 vols.). Harcourt Brace Jovanovich.
+
+Noble, D. F. (1997). *The Religion of Technology: The Divinity of Man and the Spirit of Invention*. Knopf.
+
+Pickering, A. (2010). *The Cybernetic Brain: Sketches of Another Future*. University of Chicago Press.
+
+Pittendrigh, C. S. (1958). Adaptation, Natural Selection, and Behavior. In A. Roe & G. G. Simpson (Eds.), *Behavior and Evolution*. Yale University Press.
+
+Rosenblueth, A., & Wiener, N. (1950). Purposeful and Non-Purposeful Behavior. *Philosophy of Science*, 17(4), 318–326.
+
+Taylor, R. (1950). Comments on a Mechanistic Conception of Purposefulness. *Philosophy of Science*, 17(4), 310–317.
+
+Wiener, N. (1950). *The Human Use of Human Beings: Cybernetics and Society*. Houghton Mifflin.
+
+Wiener, N. (1964). *God & Golem, Inc.: A Comment on Certain Points Where Cybernetics Impinges on Religion*. MIT Press.
+
+Winner, L. (1977). *Autonomous Technology: Technics-out-of-Control as a Theme in Political Thought*. MIT Press.
