@@ -3,6 +3,7 @@ layout: post
 title:  "Graceful Intervention"
 date:   2025-10-15 01:03:03 -0700
 categories: [blog]
+published: false  # draft, not finished yet
 ---
 
 ## Industrial vs Regenerative Agriculture
